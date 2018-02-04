@@ -33,7 +33,9 @@ public class ContactController {
     @RequestMapping("/view")
     public ModelAndView showList(){
 
+        // iew all contacts
         List<Contact> contactlist = dao.fetchData();
+
         for(Contact ob1:contactlist){
            System.out.println(ob1.getName());
         }

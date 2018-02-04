@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b967090e-ca83-43d4-ba94-d7cd01727cbe" name="Default" comment="" />
+    <list default="true" id="b967090e-ca83-43d4-ba94-d7cd01727cbe" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/ContactForm.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/ContactSuccess.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/classes/com/controller/ContactController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/classes/com/model/Contact.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/classes/com/model/ContactDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/classes/com/model/ContactDaoImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/classes/com/model/ContactDaoImpl$ContactMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/classes/com/model/ContactDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-4.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-4.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-4.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jdbc-3.1.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-tx-3.1.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/spring-dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/viewlist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/SpringMVC-1.0-SNAPSHOT.war/WEB-INF/web.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/SpringMVC-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/build/libs/SpringMVC-1.0-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_springproject_gradle___SpringMVC_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_springproject_gradle___SpringMVC_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/controller/ContactController.java" afterPath="$PROJECT_DIR$/src/main/java/com/controller/ContactController.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -11,6 +46,15 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
@@ -25,44 +69,17 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringMVC" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContactController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/controller/ContactController.java">
+    <leaf>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contact.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/model/Contact.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#893#894#0" expanded="true" />
-                <element signature="e#971#972#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/model/ContactDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1516191134000" expanded="true" signature="614:668" ph="INSERT INTO mytable... " />
-                <marker date="1516191134000" expanded="true" signature="868:889" ph="SELECT * FRO... mytable" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,6 +94,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -261,8 +281,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4548517416000" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1688710352" />
+        <entry key="$PROJECT_DIR$" value="4548683735000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="847667134" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -374,14 +394,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/ContactForm.jsp" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/model/ContactDao.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/ContactSuccess.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/model/ContactDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/model/Contact.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/controller/ContactController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/viewlist.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/controller/ContactController.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -410,6 +430,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -425,6 +446,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -480,65 +504,20 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringMVC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringMVC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SearchEverywhereHistoryKey" value="gradle&#9;ACTION&#9;Gradle.ExecuteTask&#10;settings&#9;ACTION&#9;Database.Settings&#10;theme &#9;ACTION&#9;Android.ShowThemeEditor&#10;theme&#9;ACTION&#9;ActivateThemePreviewToolWindow&#10;color scheme&#9;ACTION&#9;ChangeColorScheme&#10;ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="FullScreen" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -557,7 +536,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat">
+  <component name="RunManager" selected="Gradle.SpringMVC [gradle clean idea]">
+    <configuration default="false" name="SpringMVC [gradle clean idea]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="gradle" />
+            <option value="clean" />
+            <option value="idea" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -809,6 +808,15 @@
       <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1028,9 +1036,15 @@
         </option>
       </method>
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.SpringMVC [gradle clean idea]" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.SpringMVC [gradle clean idea]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -1047,16 +1061,25 @@
       <updated>1516166895191</updated>
       <workItem from="1516166897033" duration="71000" />
       <workItem from="1516167071075" duration="1910000" />
-      <workItem from="1516169718126" duration="16513000" />
+      <workItem from="1516169718126" duration="20763000" />
+      <workItem from="1516349884359" duration="445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18494000" />
+    <option name="totallyTimeSpent" value="23189000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1070,7 +1093,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34383562" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4048387" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1078,10 +1101,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2780822" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26171243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1139,7 +1162,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,7 +1193,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-787">
           <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,15 +1200,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/model/ContactDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ContactForm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ContactSuccess.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/viewlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/model/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/controller/ContactController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/model/ContactDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1516191134000" expanded="true" signature="614:668" ph="INSERT INTO mytable... " />
+            <marker date="1516191134000" expanded="true" signature="868:889" ph="SELECT * FRO... mytable" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1201,78 +1270,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="405">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/model/ContactDao.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="60">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ContactForm.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ContactSuccess.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/model/Contact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/model/ContactDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1516191134000" expanded="true" signature="614:668" ph="INSERT INTO mytable... " />
-            <marker date="1516191134000" expanded="true" signature="868:889" ph="SELECT * FRO... mytable" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/viewlist.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/controller/ContactController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="gradle clean idea" />
   </component>
   <component name="masterDetails">
     <states>
